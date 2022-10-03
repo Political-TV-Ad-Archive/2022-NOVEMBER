@@ -1,6 +1,8 @@
 # 2022-NOVEMBER
 US Nationwide 2022 Archive
 
+(ON THE CAMPAIGN TRAIL)
+
 Inipired from 2016 Project Sponsored by
 The Way Back Machine .org
 https://archive.org/projects/ 
@@ -20,9 +22,9 @@ Why is this open source still? Is it public information?
 Why use Julia or Python when the API is a screen scrapper on macro clicks?
 
 Why know how to code it all when multiple dicipines can do the job with you?
-
+(ON THE CAMPAIGN TRAIL)
 ![image](https://user-images.githubusercontent.com/55120529/193566358-5740441b-1e4c-46ec-90e2-b1a15101469d.png)
-
+(ON THE CAMPAIGN TRAIL)
 Political ads broadcast 375,350 times over 26 markets
 
 The map on link above shows markets chosen 
@@ -33,11 +35,28 @@ https://www.lyonspr.com/latest-nielsen-dma-rankings/
 ![image](https://user-images.githubusercontent.com/55120529/193566586-a30f2608-742d-4719-8229-25a1130646c2.png)
 
 https://github.com/slifty/tvarchive-politicaladarchive_plugin
+
+Is that ghetto slang for swing vote 
+
+or the timing of when information is released
+to neighboring cities of more influence?
 (this is all i could find from past research going into this more)
 
 Their is NO NOPE NOT REALLY ANY correllation to populartity of
 markets chosen to follow 
 and markets of mass influence
+
+Is that ghetto slang for swing vote or the timing of when information is released
+to neighboring cities of more influence?
+
+Ideas? THought??
+
+!!!Everyone interested including FinTECH Enthusiests are Welcome to join this FORE!!
+
+What kind of marketing insites would you gain from
+this calculated stat after mutiple vote tallies for
+multiple elections.
+
 
 This project is intended to kick off
 a multidiciplinary effort to make lists 
@@ -59,23 +78,6 @@ format!!
 The Political TV Ad Archive collected and, using innovative open source technology, tracked airings of political ads in key markets the 2016 election cycle.
 
 The collection also linked ads to fact-checks by national fact-checking organizations. In addition to tracking airings across key primary states, the collection includes ads that may air elsewhere or exclusively on social media.
-
-Ideas? THought??
-
-!!!Everyone interested including FinTECH Enthusiests are Welcome to join this FORE!!!
-
-What kind of marketing insites would you gain from
-this calculated stat after mutiple vote tallies for
-multiple elections.
-
-Why is this open source still?
-
-Oh probably because this "project" got
-funded for 1 political vote.
-
-Is that ghetto slang for swing vote or the timing of when information is released
-to neighboring cities of more influence?
-
 
 Non HADOOP HACK APROVED 
 COVEYLANTLY ONLINE
