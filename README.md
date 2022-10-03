@@ -10,7 +10,7 @@ How many politicians have the marketing data to say they are
 at what percentage in the polls?
 
 Why is that not a job a computer can do faster 
-than a so called professional making us broke for his opponents tre?
+than a so called professional making us broke for his opponents team?
 
 ![image](https://user-images.githubusercontent.com/55120529/193566358-5740441b-1e4c-46ec-90e2-b1a15101469d.png)
 
